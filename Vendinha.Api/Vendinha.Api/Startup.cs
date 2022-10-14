@@ -1,14 +1,12 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Vendinha.Api.Data;
+using Vendinha.Api.Interfaces.Repositorios;
+using Vendinha.Api.Repositorios;
 
 namespace Vendinha.Api
 {
@@ -25,6 +23,13 @@ namespace Vendinha.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            
+            string conexaoDb = Configuration.GetConnectionString("conexaoMySql");
+            services.AddDbContext<DataContext>(x => x.UseMySql(conexaoDb, ServerVersion.AutoDetect(conexaoDb)));
+
+            services.AddScoped<IRepositorioCliente, RepositorioCliente>();
+            services.AddScoped<IRepositorioDivida, RepositorioDivida>();
+            
             services.AddSwaggerGen(c => c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "Vendinha API", Version = "v1" }));
         }
 
