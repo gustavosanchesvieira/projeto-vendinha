@@ -39,8 +39,7 @@ namespace Vendinha.Api
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Vendinha API v1"));
+               
             }
             app.UseHttpsRedirection();
 
@@ -52,7 +51,8 @@ namespace Vendinha.Api
             {
                 endpoints.MapControllers();
             });
-
+            app.UseSwagger();
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Vendinha API v1"));
         }
     }
 }

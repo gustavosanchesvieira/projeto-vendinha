@@ -12,5 +12,6 @@ namespace Vendinha.Api.Interfaces.Repositorios
         Task<Cliente> GetClienteById(int id);
         Task<Cliente> CreateCliente(Cliente cliente);
         Task UpdateCliente(Cliente cliente);
+        Task DeleteCliente(int id);
     }
 }

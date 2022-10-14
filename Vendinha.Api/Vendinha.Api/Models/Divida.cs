@@ -11,7 +11,7 @@ namespace Vendinha.Api.Models
         public bool Situacao { get; set; }
         public DateTime DataCriacao { get; set; }
         public DateTime DataPagamento { get; set; }
-        public int IdCliente { get; set; }
+        public int ClienteId { get; set; }
         public Cliente Cliente { get; set; }
     }
 }
