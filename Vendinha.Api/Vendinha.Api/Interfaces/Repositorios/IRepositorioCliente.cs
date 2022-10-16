@@ -13,5 +13,7 @@ namespace Vendinha.Api.Interfaces.Repositorios
         Task<Cliente> CreateCliente(Cliente cliente);
         Task UpdateCliente(Cliente cliente);
         Task DeleteCliente(int id);
+        Task<IEnumerable<Cliente>> GetClientesListPaginado(int pagina);
+
     }
 }

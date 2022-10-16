@@ -12,6 +12,7 @@ namespace Vendinha.Api.Repositorios
     public class RepositorioCliente : IRepositorioCliente
     {
         public readonly DataContext _context;
+        private int _qtdPaginacao = 10;
         public RepositorioCliente(DataContext context)
         {
             _context = context;
@@ -39,6 +40,11 @@ namespace Vendinha.Api.Repositorios
         public async Task<IEnumerable<Cliente>> GetClientesList()
         {
             return await _context.Clientes.ToListAsync();
+        }
+
+        public async Task<IEnumerable<Cliente>> GetClientesListPaginado(int pagina)
+        {
+            return await _context.Clientes.Skip((pagina-1) * _qtdPaginacao).Take(_qtdPaginacao).ToListAsync();
         }
 
         public async Task UpdateCliente(Cliente cliente)

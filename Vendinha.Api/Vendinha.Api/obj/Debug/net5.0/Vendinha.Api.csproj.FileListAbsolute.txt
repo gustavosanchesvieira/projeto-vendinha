@@ -39,3 +39,44 @@ D:\_Gustavo Vieira\Pessoal\ProjetoVendinhaInterFocus\projeto-vendinha\Vendinha.A
 D:\_Gustavo Vieira\Pessoal\ProjetoVendinhaInterFocus\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Humanizer.dll
 D:\_Gustavo Vieira\Pessoal\ProjetoVendinhaInterFocus\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\_Gustavo Vieira\Pessoal\ProjetoVendinhaInterFocus\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\appsettings.Development.json
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\appsettings.json
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Vendinha.Api.StaticWebAssets.xml
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Vendinha.Api.exe
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Vendinha.Api.deps.json
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Vendinha.Api.runtimeconfig.json
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Vendinha.Api.runtimeconfig.dev.json
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Vendinha.Api.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Vendinha.Api.pdb
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Humanizer.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\MySqlConnector.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\obj\Debug\net5.0\Vendinha.Api.csproj.AssemblyReference.cache
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\obj\Debug\net5.0\Vendinha.Api.GeneratedMSBuildEditorConfig.editorconfig
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\obj\Debug\net5.0\Vendinha.Api.AssemblyInfoInputs.cache
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\obj\Debug\net5.0\Vendinha.Api.AssemblyInfo.cs
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\obj\Debug\net5.0\Vendinha.Api.csproj.CoreCompileInputs.cache
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\obj\Debug\net5.0\Vendinha.Api.MvcApplicationPartsAssemblyInfo.cs
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\obj\Debug\net5.0\Vendinha.Api.MvcApplicationPartsAssemblyInfo.cache
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\obj\Debug\net5.0\scopedcss\bundle\Vendinha.Api.styles.css
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\obj\Debug\net5.0\staticwebassets\Vendinha.Api.StaticWebAssets.Manifest.cache
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\obj\Debug\net5.0\Vendinha.Api.RazorTargetAssemblyInfo.cache
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\obj\Debug\net5.0\Vendinha.Api.csproj.CopyComplete
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\obj\Debug\net5.0\Vendinha.Api.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\obj\Debug\net5.0\refint\Vendinha.Api.dll
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\obj\Debug\net5.0\Vendinha.Api.pdb
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\obj\Debug\net5.0\Vendinha.Api.genruntimeconfig.cache
+B:\PROJETOS-PROGRAMACAO\00.Pessoal\projeto-vendinha\Vendinha.Api\Vendinha.Api\obj\Debug\net5.0\ref\Vendinha.Api.dll
